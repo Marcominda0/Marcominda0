@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2a9df4;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.marquesina {
+    background-color: #f39c12;
+    color: white;
+    padding: 10px;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.content {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #2a9df4;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #2a9df4;
+    color: white;
+}
+
+ul {
+    list-style-type: square;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.logo {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+}
+
+footer {
+    text-align: center;
+    background-color: #2a9df4;
+    color: white;
+    padding: 10px;
+}
